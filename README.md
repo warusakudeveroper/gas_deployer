@@ -12,9 +12,9 @@ The design targets easy onboarding and robust, scriptId-scoped authorization for
 
 ## Quick Links
 
-- 導入ガイド (easy onboarding): `obsidian_gas_deployer/導入ガイド.md`
-- 利用ガイド (everyday usage): `obsidian_gas_deployer/利用ガイド.md`
-- 仕様書（段階化）: `obsidian_gas_deployer/draft/仕様書/`
+- 導入ガイド (easy onboarding): `docs/導入ガイド.md`
+- 利用ガイド (everyday usage): `docs/利用ガイド.md`
+- 仕様書（段階化）: `docs/draft/仕様書/`
   - 01_全体概要, 02_詳細要件, 03_基本設計, 04_詳細設計, 99_付録, DEV_TODO
 
 ## What’s in here
@@ -59,4 +59,3 @@ See `obsidian_gas_deployer/利用ガイド.md` for step-by-step usage and troubl
 ## License
 
 Proprietary/internal unless specified otherwise by the repository owner.
-
