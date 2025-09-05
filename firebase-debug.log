@@ -1,0 +1,8 @@
+[debug] [2025-09-05T03:54:29.411Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-09-05T03:54:29.413Z] > authorizing via signed-in user (kurata@mijeos.com)
+[debug] [2025-09-05T03:54:29.417Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-09-05T03:54:29.417Z] > authorizing via signed-in user (kurata@mijeos.com)
+[debug] [2025-09-05T04:01:16.241Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-09-05T04:01:16.242Z] > authorizing via signed-in user (kurata@mijeos.com)
+[debug] [2025-09-05T04:01:16.245Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-09-05T04:01:16.245Z] > authorizing via signed-in user (kurata@mijeos.com)
