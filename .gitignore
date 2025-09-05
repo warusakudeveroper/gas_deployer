@@ -35,3 +35,4 @@ tmp/
 *.log
 gas_deployer/firebase-debug.log
 
+gas_deployer/
