@@ -1,0 +1,9 @@
+{
+  "name": "gas-admin-cli",
+  "version": "0.2.0",
+  "type": "module",
+  "bin": {
+    "gas-admin": "./cli.js"
+  }
+}
+
